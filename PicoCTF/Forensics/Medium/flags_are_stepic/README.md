@@ -17,12 +17,14 @@
 
 7. So actually python have library for that.
 
-8. Jadi saya hanya tinggal pake librarynya dan decode image.
+8. https://pypi.org/project/stepic/
 
-9. You can see the tutorial/documentation here atau tanya AI
+9. Jadi saya hanya tinggal pake librarynya dan decode image.
+
+10. You can see the tutorial/documentation here atau tanya AI
 ![alt text](index.html)
 
-10. ![text](https://pypi.org/project/stepic/)
+11. https://pypi.org/project/stepic/
 
-11. ![alt text](image-4.png)
+12. ![alt text](image-5.png)
 
