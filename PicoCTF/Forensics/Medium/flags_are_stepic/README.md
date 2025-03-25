@@ -22,7 +22,7 @@
 9. You can see the tutorial/documentation here atau tanya AI
 ![alt text](index.html)
 
-10. [text](https://pypi.org/project/stepic/)
+10. ![text](https://pypi.org/project/stepic/)
 
 11. ![alt text](image-4.png)
 
