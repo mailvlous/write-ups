@@ -7,6 +7,8 @@ Hint 1: Try using a tool like Wireshark.
 
 Hint 2: How can you decrypt the TLS stream?
 
+*Note: Ini sebenernya sama aja kayak challenge WebNet0 tapi beda di penyembunyian flags
+
 1. Open the packet capture using wireshark
 
 2. ![alt text](image.png)
